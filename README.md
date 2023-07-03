@@ -1,7 +1,7 @@
 # Análise de Dados do comércio eletrônico brasileiro | Olist 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pedrohrafael/data-science/main/img/clip-shopping-online.png?token=AOJSUEC7BGWK6YVKEWPRLKLBUGPL6" style="width:450px;align:center"/>
+  <img src="https://raw.githubusercontent.com/pedrohrafael/pedrohrafael/main/img/clip-shopping-online.png?token=AOJSUEC7BGWK6YVKEWPRLKLBUGPL6" style="width:450px;align:center"/>
 <p/>
 
 ## Objetivo
