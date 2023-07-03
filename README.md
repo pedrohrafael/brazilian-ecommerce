@@ -12,10 +12,7 @@ Neste projeto foram utilizados os dados públicos do comércio eletrônico (ecom
 
 ## Análise Exploratória dos Dados (EDA)
 
-Principais insights do conjunto de dados de ecommerce brasileiro.
-
-* [Artigo Medium](https://medium.com/@pedro.rafael/an%C3%A1lise-de-dados-do-com%C3%A9rcio-eletr%C3%B4nico-brasileiro-olist-d1b552858f44)
-* [Jupyter Notebook](https://github.com/pedrohrafael/brazilian-ecommerce/blob/main/Analise%20exploratoria%20de%20dados/An%C3%A1lise%20Explorat%C3%B3ria%20dos%20Dados%20(EDA).ipynb)
+[Artigo no Medium](https://medium.com/@pedro.rafael/an%C3%A1lise-de-dados-do-com%C3%A9rcio-eletr%C3%B4nico-brasileiro-olist-d1b552858f44) apresentando os principais insights do conjunto de dados de ecommerce brasileiro.
 
 ## [Análise de sentimentos]
 (em breve)
