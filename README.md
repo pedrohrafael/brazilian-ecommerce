@@ -1,4 +1,4 @@
-# Análise de Dados do comércio eletrônico brasileiro | Olist 
+# Ecommerce Brasil | Olist
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pedrohrafael/pedrohrafael/main/img/clip-shopping-online.png?token=AOJSUEC7BGWK6YVKEWPRLKLBUGPL6" style="width:450px;align:center"/>
@@ -12,10 +12,10 @@ Neste projeto foram utilizados os dados públicos do comércio eletrônico (ecom
 
 ## Análise Exploratória dos Dados (EDA)
 
-📝 [Análise de Dados do comércio eletrônico brasileiro | Olist: ](https://medium.com/@pedro.rafael/an%C3%A1lise-de-dados-do-com%C3%A9rcio-eletr%C3%B4nico-brasileiro-olist-d1b552858f44) apresentando os principais insights do conjunto de dados de ecommerce brasileiro.
+📝 [Análise de Dados do comércio eletrônico brasileiro](https://medium.com/@pedro.rafael/an%C3%A1lise-de-dados-do-com%C3%A9rcio-eletr%C3%B4nico-brasileiro-olist-d1b552858f44): storytelling apresentando os principais insights do conjunto de dados.
 
 ## [Análise de sentimentos]
-(em breve)
+Aplicação de um modelo de __NLP__ para identificar __sentimentos nos reviews__ dos pedidos.
 
 ## [Previsão de vendas]
 (em breve)
