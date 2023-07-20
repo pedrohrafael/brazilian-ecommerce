@@ -6,7 +6,7 @@
 
 ## Objetivo
 
-Este projeto tem o objetivo de demonstrar como a aplicação de técnicas de Data Science podem ajudar a solucionar problemas relacionados ao comércio eletrônico.
+Este projeto tem o objetivo de __demonstrar como a aplicação de técnicas de Data Science podem ajudar a solucionar problemas relacionados ao comércio eletrônico__.
 
 Neste projeto foram utilizados os dados públicos do comércio eletrônico (ecommerce) brasileiro disponibilizados no Kaggle pela [Olist](https://www.kaggle.com/olistbr/brazilian-ecommerce).
 
