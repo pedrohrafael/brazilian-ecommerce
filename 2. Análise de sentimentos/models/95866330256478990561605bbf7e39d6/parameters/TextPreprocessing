@@ -1,0 +1,15 @@
+Pipeline(steps=[('TextCleaning',
+                 TextCleaning(transformers={'lowercase': <function lowercase at 0x000002168FC6C790>,
+                                            'remove_accents': <function remove_accents at 0x0000021688A93490>,
+                                            'remove_digits': <function remove_digits at 0x000002168FC6C430>,
+                                            'remove_emoji': <function remove_emoji at 0x000002168FC6C5E0>,
+                                            'remove_hiperlink': <function remove_hiperlink at 0x000002168FC...
+                                            'remove_punctuation': <function remove_punctuation at 0x000002168FC6C4C0>,
+                                            'remove_stopwords': <function remove_stopwords at 0x000002168FC6C550>,
+                                            'replace_negation': <function replace_negation at 0x000002168FC6C700>})),
+                ('Lemmatizer', Lemmatizer()),
+                ('PartOfSpeechTagFilter',
+                 PartOfSpeechTagFilter(tags=['VERB', 'ADJ', 'ADV', 'NOUN',
+                                             'PRON'])),
+                ('FeatureExtraction',
+                 TfidfVectorizer(max_df=0.9, max_features=750, min_df=8))])

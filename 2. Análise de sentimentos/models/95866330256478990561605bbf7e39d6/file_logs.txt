@@ -1,0 +1,10 @@
+18-07-2023 09:12:49 AM - INFO - Iniciando treino do modelo.
+18-07-2023 09:12:49 AM - INFO - Armazenando Logs e Artefatos em: 95866330256478990561605bbf7e39d6.
+18-07-2023 09:12:49 AM - INFO - Carregando dados.
+18-07-2023 09:12:50 AM - INFO - Dividindo dados de treino e teste.
+18-07-2023 09:12:50 AM - INFO - Armazenando datasets de treino e teste.
+18-07-2023 09:12:50 AM - INFO - Construindo pipeline.
+18-07-2023 09:12:56 AM - INFO - Ajustando modelo com melhores hiperparametros [RandomizedSearchCV].
+18-07-2023 01:36:11 PM - INFO - Armazenando modelo com melhores hiperparametros.
+18-07-2023 01:36:13 PM - INFO - Avaliando modelo.
+18-07-2023 01:38:42 PM - INFO - Modelo treinado com SUCESSO!
