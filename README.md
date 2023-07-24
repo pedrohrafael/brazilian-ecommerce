@@ -15,7 +15,7 @@ Neste projeto foram utilizados os dados públicos do comércio eletrônico (ecom
 📝 [Análise de Dados do comércio eletrônico brasileiro](https://medium.com/@pedro.rafael/an%C3%A1lise-de-dados-do-com%C3%A9rcio-eletr%C3%B4nico-brasileiro-olist-d1b552858f44): storytelling apresentando os principais insights do conjunto de dados.
 
 ## [Análise de sentimentos]
-Aplicação de um modelo de __NLP__ para identificar __sentimentos nos reviews__ dos pedidos.
+Aplicação de um modelo de __NLP__ para identificar [sentimentos nos reviews](https://github.com/pedrohrafael/brazilian-ecommerce/tree/main/2.%20An%C3%A1lise%20de%20sentimentos) dos pedidos.
 
 ## [Previsão de vendas]
 (em breve)
