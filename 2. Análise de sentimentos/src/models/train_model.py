@@ -1,5 +1,6 @@
 # Pip
 import os
+import sys
 import joblib
 import numpy as np
 import pandas as pd
@@ -12,24 +13,24 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score
 
 # Project
-from ml_logwriter.logger import LogArtifacts, LogWriter
+from ml_logwriter.loggers import LogArtifacts, LogWriter
 from dataset.make_dataset import load_reviews
 from preprocess.text_transform import TextCleaning, Lemmatizer, PartOfSpeechTagFilter
 from preprocess.text_transform import remove_hiperlink, remove_emoji, remove_digits, remove_punctuation, \
                                       remove_accents, remove_stopwords, lowercase, replace_negation
 
 # Global variables
-ROOT_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.getcwd())))
+ROOT_DIR = os.path.dirname(os.getcwd())
 DATA_DIR = os.path.join(ROOT_DIR, 'data', 'raw')
 CSV_PATH = os.path.join(DATA_DIR, "olist_order_reviews_dataset.csv")
-ARTIF_DIR = os.path.join(os.path.dirname(os.path.dirname(os.getcwd())), 'models')
+ARTIF_DIR = os.path.join(os.getcwd(), 'models')
 FILE_LOGS = 'file_logs.txt'
 SEED = 42
 
 # start logArtifacts
 logAtfcs = LogArtifacts(ARTIF_DIR)
 logAtfcs.create()
-
+    
 # start logWriter
 log = LogWriter().logger(os.path.join(logAtfcs.artifacts_path, FILE_LOGS))
 
