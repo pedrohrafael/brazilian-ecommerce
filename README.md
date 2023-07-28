@@ -1,24 +1,25 @@
 # Ecommerce Brasil | Olist
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pedrohrafael/pedrohrafael/main/img/clip-shopping-online.png?token=AOJSUEC7BGWK6YVKEWPRLKLBUGPL6" style="width:450px;align:center"/>
+  <img src="https://raw.githubusercontent.com/pedrohrafael/pedrohrafael/main/img/clip-shopping-online.png?token=AOJSUEC7BGWK6YVKEWPRLKLBUGPL6" style="width:350px;align:center"/>
 <p/>
 
 ## Objetivo
 
-Este projeto tem o objetivo de demonstrar como a aplicação de técnicas de __Data Science__ e __Machine Learning__ podem ajudar a __solucionar problemas__ relacionados ao __comércio eletrônico__.
+Este projeto tem o objetivo de demonstrar através de `4 projetos` como a aplicação de __Data Science__ e __Machine Learning__ pode ajudar a solucionar problemas relacionados ao __comércio eletrônico__.
 
-Neste projeto foram utilizados os dados públicos do comércio eletrônico (ecommerce) brasileiro disponibilizados no Kaggle pela [Olist](https://www.kaggle.com/olistbr/brazilian-ecommerce).
+Neste projeto foram utilizados os dados públicos disponibilizados no Kaggle pela [Olist](https://www.kaggle.com/olistbr/brazilian-ecommerce).
 
-## Análise Exploratória dos Dados (EDA)
+## Projetos
+### 1. [Insights / Análise de dados](https://medium.com/@pedro.rafael/an%C3%A1lise-de-dados-do-com%C3%A9rcio-eletr%C3%B4nico-brasileiro-olist-d1b552858f44)
 
-📝 [Análise de Dados do comércio eletrônico brasileiro](https://medium.com/@pedro.rafael/an%C3%A1lise-de-dados-do-com%C3%A9rcio-eletr%C3%B4nico-brasileiro-olist-d1b552858f44): storytelling apresentando os principais insights do conjunto de dados.
+> Artigo no Medium: __Storytelling__ apresentando os principais insights do conjunto de dados.
 
-## [Análise de sentimentos]
-Aplicação de um modelo de __NLP__ para identificar [sentimentos nos reviews](https://github.com/pedrohrafael/brazilian-ecommerce/tree/main/2.%20An%C3%A1lise%20de%20sentimentos) dos pedidos.
+### 2. [Análise de sentimentos](https://github.com/pedrohrafael/brazilian-ecommerce/tree/main/2.%20An%C3%A1lise%20de%20sentimentos)
+> Aplicação de modelo preditivo de __NLP__ para identificar sentimentos nos reviews dos pedidos de ecommerce.
 
-## [Previsão de vendas]
-(em breve)
+### 3. Previsão de vendas
+(em desenvolvimento)
 
-## [Segmentação de clientes]
-(em breve)
+### 4. Segmentação de clientes
+(em desenvolvimento)
