@@ -1,7 +1,5 @@
 # Ecommerce Brasil
 
-## Objetivo
-
 Este projeto tem o objetivo de demonstrar através de `4 projetos` como a aplicação de __Data Science__ e __Machine Learning__ pode ajudar a solucionar problemas relacionados ao __comércio eletrônico__.
 
 Neste projeto foram utilizados os dados públicos disponibilizados no Kaggle pela [Olist](https://www.kaggle.com/olistbr/brazilian-ecommerce).
