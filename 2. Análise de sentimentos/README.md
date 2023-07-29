@@ -1,10 +1,6 @@
 # Análise de sentimentos 
 Aplicação de modelo preditivo de Processamento de Linguagem Natural (PLN) para identificar sentimentos nos reviews dos pedidos de ecommerce. Analise de sentimento em textos é importante para o negócio pois permite identificar de forma resumida e agrupada o feedback dos clientes possibilitando que ações de melhoria sejam tomadas.
 
-<p align="center">
-  <img src="https://github.com/pedrohrafael/pedrohrafael/blob/main/img/review.jpg" style="width:300px;align:center"/>
-<p/>
-
 ## Sobre a aplicação
 Foi desenvolvido um modelo preditivo de Machine Learning para classificação de sentimentos baseado na descrição textual dos comentários de avaliações de produtos.
 Foi usado o [Gradio](https://www.gradio.app/) para gerar um app de demonstração da aplicação do modelo.
