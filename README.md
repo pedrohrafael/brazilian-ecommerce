@@ -13,20 +13,20 @@ __Storytelling__ apresentando os principais insights do conjunto de dados. Aqui 
 <br><br>
 #
 
-<img align="left" width="250" height="200" src="https://github.com/pedrohrafael/pedrohrafael/blob/main/img/review.jpg"> **[Análise de sentimentos](https://github.com/pedrohrafael/brazilian-ecommerce/tree/main/2.%20An%C3%A1lise%20de%20sentimentos)**
+<img align="left" width="250" height="200" src="https://github.com/pedrohrafael/pedrohrafael/blob/main/img/review.jpg"> **[2. Análise de sentimentos](https://github.com/pedrohrafael/brazilian-ecommerce/tree/main/2.%20An%C3%A1lise%20de%20sentimentos)**
 
 Aplicação de modelo preditivo de __NLP__ para identificar sentimentos nos reviews dos pedidos de ecommerce.
 
 <br><br><br>
 #
 
-<img align="left" width="250" height="150" src=""> [Previsão de vendas](URL)
+<img align="left" width="250" height="150" src=""> **[3. Previsão de vendas](URL)**
 
 (em desenvolvimento)
 <br><br><br><br><br>
 #
 
-<img align="left" width="250" height="150" src=""> [Segmentação de clientes](URL)
+<img align="left" width="250" height="150" src=""> **[4. Segmentação de clientes](URL)**
 
 (em desenvolvimento)
 <br><br><br><br><br>
