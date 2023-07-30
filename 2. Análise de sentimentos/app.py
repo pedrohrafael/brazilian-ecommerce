@@ -10,13 +10,17 @@ def gradio_wrapper(sentence):
     result = analizer.predict(sentence)
     return {result['sentiment'] : result['proba']}
 
-demo = gradio.Interface(
-    fn=gradio_wrapper,
-    inputs=gradio.Textbox(placeholder="Enter a positive or negative sentence here..."), 
-    outputs="label",
-    interpretation="default",
-    title="Analise de Sentimentos",
-    description= "Escreva uma avaliação de produto para obter um retorno",
-    examples=[["O produto em si tem uma ótima qualidade e acabamento. A entrega foi muito eficiente."]])
+def main():
+    demo = gradio.Interface(
+        fn=gradio_wrapper,
+        inputs=gradio.Textbox(placeholder="Enter a positive or negative sentence here..."), 
+        outputs="label",
+        interpretation="default",
+        title="Analise de Sentimentos",
+        description= "Escreva uma avaliação de produto para obter um retorno",
+        examples=[["O produto em si tem uma ótima qualidade e acabamento. A entrega foi muito eficiente."]])
+
+    demo.launch(share=True)
     
-demo.launch(share=True)
+if __name__ == "__main__":
+    main()
