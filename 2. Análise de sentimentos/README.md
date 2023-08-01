@@ -16,7 +16,7 @@ Analise de Sentimentos para reviews é um projeto baseado em Python que visa ext
 ## Aspectos técnicos
 - **Pré-processamento de texto:** os dados de texto extraídos serão pré-processados para remover o ruído, incluindo URLs, acentos, dígitos, caracteres especiais e stopwords, além da aplicação de Lemmatização.
 
-- **Análise de sentimento:** o núcleo do projeto envolve o emprego de técnicas de NLP e modelos de aprendizado de máquina pré-treinados (por exemplo, Naive Bayes, Support Vector Machines ou modelos baseados em aprendizado profundo como BERT) para classificar o sentimento de cada revisão.
+- **Análise de sentimento:** o núcleo do projeto envolve o emprego de técnicas de NLP e modelo de **Regressão Logistica** para classificar o sentimento de cada revisão.
 
 - **Interface do usuário:** para uma versão avançada do projeto, uma interface de usuário simples baseada na web foi desenvolvida usando [gradio.app](https://www.gradio.app/), permitindo que os usuários insiram texto personalizado e recebam resultados de análise de sentimento em tempo real.
 
