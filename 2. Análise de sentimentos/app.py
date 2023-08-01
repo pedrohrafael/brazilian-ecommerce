@@ -13,7 +13,7 @@ def gradio_wrapper(sentence):
 def main():
     demo = gradio.Interface(
         fn=gradio_wrapper,
-        inputs=gradio.Textbox(placeholder="Enter a positive or negative sentence here..."), 
+        inputs=gradio.Textbox(placeholder="Digite uma frase positiva ou negativa aqui..."), 
         outputs="label",
         interpretation="default",
         title="Analise de Sentimentos",
