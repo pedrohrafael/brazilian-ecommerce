@@ -3,7 +3,7 @@ Analise de Sentimentos para reviews é um projeto baseado em Python que visa ext
 
 ## Principais benefícios:
 
-- **Compreensão do sentimento do cliente:** a análise de sentimento permite que as empresas entendam o sentimento geral dos clientes em relação a seus produtos ou serviços. Ao classificar automaticamente as - avaliações como positivas, negativas ou neutras, as empresas podem avaliar a satisfação do cliente e identificar as áreas que precisam ser melhoradas.
+- **Compreensão do sentimento do cliente:** a análise de sentimento permite que as empresas entendam o sentimento geral dos clientes em relação a seus produtos ou serviços. Ao classificar automaticamente as avaliações como positivas, negativas ou neutras, as empresas podem avaliar a satisfação do cliente e identificar as áreas que precisam ser melhoradas.
 
 - **Melhoria do produto:** ao analisar os sentimentos nas avaliações, as empresas podem identificar pontos problemáticos comuns ou áreas de elogios para seus produtos. Essas informações podem ser inestimáveis para as equipes de desenvolvimento de produtos fazerem melhorias e otimizarem recursos que se alinhem com as preferências do cliente.
 
