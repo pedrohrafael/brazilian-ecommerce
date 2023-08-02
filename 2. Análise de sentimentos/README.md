@@ -19,7 +19,7 @@ Analise de Sentimentos para reviews é um projeto baseado em Python que visa ext
 - **Interface do usuário:** para uma versão avançada do projeto, uma interface de usuário simples baseada na web foi desenvolvida usando [gradio.app](https://www.gradio.app/), permitindo que os usuários insiram texto personalizado e recebam resultados de análise de sentimento em tempo real.
 
 ## Organização do projeto
-#
+
 ```
 2. Análise de sentimentos
 ├─ models                   <- Modelos treinados e seus artefatos
