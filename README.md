@@ -6,7 +6,7 @@ Neste projeto foram utilizados os dados públicos disponibilizados no Kaggle pel
 
 ## Projetos
 
-<img align="left" width="250" height="200" src="https://raw.githubusercontent.com/pedrohrafael/pedrohrafael/main/img/clip-shopping-online.png?token=AOJSUEC7BGWK6YVKEWPRLKLBUGPL6"> **[1. Insights / Análise de dados](https://medium.com/@pedro.rafael/an%C3%A1lise-de-dados-do-com%C3%A9rcio-eletr%C3%B4nico-brasileiro-olist-d1b552858f44)**
+<img align="left" width="250" height="200" src="https://raw.githubusercontent.com/pedrohrafael/pedrohrafael/main/img/clip-shopping-online.png"> **[1. Insights / Análise de dados](https://medium.com/@pedro.rafael/an%C3%A1lise-de-dados-do-com%C3%A9rcio-eletr%C3%B4nico-brasileiro-olist-d1b552858f44)**
 
 __Storytelling__ apresentando os principais insights do conjunto de dados. Aqui será abordado a análise exploratória dos dados ou Exploratory Data Analysis (EDA), onde por meio de métodos visuais serão apresentados os principais insights do conjunto de dados de e-commerce brasileiro.
 
